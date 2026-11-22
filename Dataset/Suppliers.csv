@@ -1,0 +1,51 @@
+﻿SupplierID,SupplierName,SupplierRegion,SupplierType,ContactEmail,StandardLeadTimeDays,SupplierStatus
+SUP001,Supplier 01 Industries,South India,Raw Material,supplier001@example.com,28,Active
+SUP002,Supplier 02 Industries,North India,Components,supplier002@example.com,28,Active
+SUP003,Supplier 03 Industries,Central India,Raw Material,supplier003@example.com,23,Active
+SUP004,Supplier 04 Industries,South India,Raw Material,supplier004@example.com,11,Active
+SUP005,Supplier 05 Industries,Central India,Raw Material,supplier005@example.com,22,Active
+SUP006,Supplier 06 Industries,Central India,Industrial Supplies,supplier006@example.com,12,Active
+SUP007,Supplier 07 Industries,West India,Raw Material,supplier007@example.com,29,Active
+SUP008,Supplier 08 Industries,East India,Packaging,supplier008@example.com,13,Active
+SUP009,Supplier 09 Industries,West India,Raw Material,supplier009@example.com,7,Active
+SUP010,Supplier 10 Industries,West India,Packaging,supplier010@example.com,24,Active
+SUP011,Supplier 11 Industries,South India,Industrial Supplies,supplier011@example.com,22,Active
+SUP012,Supplier 12 Industries,East India,Raw Material,supplier012@example.com,22,Active
+SUP013,Supplier 13 Industries,Central India,Packaging,supplier013@example.com,23,Active
+SUP014,Supplier 14 Industries,South India,Raw Material,supplier014@example.com,26,Active
+SUP015,Supplier 15 Industries,West India,Raw Material,supplier015@example.com,12,Active
+SUP016,Supplier 16 Industries,East India,Packaging,supplier016@example.com,19,Active
+SUP017,Supplier 17 Industries,West India,Components,supplier017@example.com,16,Active
+SUP018,Supplier 18 Industries,West India,Raw Material,supplier018@example.com,24,Active
+SUP019,Supplier 19 Industries,Central India,Components,supplier019@example.com,10,Active
+SUP020,Supplier 20 Industries,West India,Components,supplier020@example.com,26,Active
+SUP021,Supplier 21 Industries,South India,Components,supplier021@example.com,6,Active
+SUP022,Supplier 22 Industries,East India,Packaging,supplier022@example.com,7,Active
+SUP023,Supplier 23 Industries,Central India,Packaging,supplier023@example.com,11,Active
+SUP024,Supplier 24 Industries,East India,Industrial Supplies,supplier024@example.com,9,Active
+SUP025,Supplier 25 Industries,North India,Packaging,supplier025@example.com,28,Active
+SUP026,Supplier 26 Industries,Central India,Industrial Supplies,supplier026@example.com,16,Active
+SUP027,Supplier 27 Industries,North India,Industrial Supplies,supplier027@example.com,7,Active
+SUP028,Supplier 28 Industries,South India,Components,supplier028@example.com,25,Active
+SUP029,Supplier 29 Industries,East India,Raw Material,supplier029@example.com,17,Active
+SUP030,Supplier 30 Industries,East India,Packaging,supplier030@example.com,22,Active
+SUP031,Supplier 31 Industries,South India,Raw Material,supplier031@example.com,26,Active
+SUP032,Supplier 32 Industries,West India,Packaging,supplier032@example.com,8,Active
+SUP033,Supplier 33 Industries,North India,Industrial Supplies,supplier033@example.com,5,Under Review
+SUP034,Supplier 34 Industries,West India,Components,supplier034@example.com,21,Under Review
+SUP035,Supplier 35 Industries,West India,Components,supplier035@example.com,9,Active
+SUP036,Supplier 36 Industries,North India,Raw Material,supplier036@example.com,24,Active
+SUP037,Supplier 37 Industries,South India,Raw Material,supplier037@example.com,16,Active
+SUP038,Supplier 38 Industries,West India,Components,supplier038@example.com,6,Active
+SUP039,Supplier 39 Industries,Central India,Raw Material,supplier039@example.com,7,Active
+SUP040,Supplier 40 Industries,South India,Components,supplier040@example.com,9,Active
+SUP041,Supplier 41 Industries,Central India,Components,supplier041@example.com,13,Active
+SUP042,Supplier 42 Industries,Central India,Industrial Supplies,supplier042@example.com,11,Under Review
+SUP043,Supplier 43 Industries,North India,Packaging,supplier043@example.com,17,Under Review
+SUP044,Supplier 44 Industries,West India,Industrial Supplies,supplier044@example.com,21,Active
+SUP045,Supplier 45 Industries,North India,Components,supplier045@example.com,7,Active
+SUP046,Supplier 46 Industries,Central India,Components,supplier046@example.com,23,Active
+SUP047,Supplier 47 Industries,South India,Raw Material,supplier047@example.com,12,Active
+SUP048,Supplier 48 Industries,South India,Packaging,supplier048@example.com,7,Active
+SUP049,Supplier 49 Industries,West India,Industrial Supplies,supplier049@example.com,11,Active
+SUP050,Supplier 50 Industries,Central India,Industrial Supplies,supplier050@example.com,12,Active
