@@ -408,6 +408,7 @@ Manufacturing Procurement & Supplier Performance Analytics/
 ├── README.md
 ├── .gitignore
 └── REQUIREMENTS.md
+```
 
 ## 14. Project Conclusion
 
